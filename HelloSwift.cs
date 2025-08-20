@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace GitTask;
-public static class HelloWorld
+public static class HelloSwift
 {
     public static void PrintHelloWorld()
     {
