@@ -7,4 +7,9 @@ public static class HelloITI
     {
         Console.WriteLine("Hello, ITI!");
     }
+
+    public static void PrintHelloGit()
+    {
+        Console.WriteLine("Hello, Git!");
+    }
 }
